@@ -5,7 +5,7 @@ height: 713px;
 left: 1px;
 top: 168px;
     
-background: rgba(239, 183, 183, 0.71);
+background-color: rgba(239, 183, 183, 0.71);
 }
 header{
 position: absolute;
@@ -14,5 +14,5 @@ height: 168px;
 left: 0px;
 top: 0px;
 
-background: rgba(239, 183, 183, 0.24);
+background-color: rgba(239, 183, 183, 0.24);
 }
