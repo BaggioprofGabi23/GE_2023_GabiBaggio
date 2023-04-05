@@ -1,5 +1,11 @@
 body{
-background-color:#EFB7B7
+position: absolute;
+width: 1440px;
+height: 713px;
+left: 1px;
+top: 168px;
+    
+background: rgba(239, 183, 183, 0.71);
 }
 header{
 position: absolute;
