@@ -2,8 +2,8 @@ body{
     position: absolute;
     width: 1440px;
     height: 713px;
-    left: 1px;
-    top: 168px;  
+    left: 0px;
+    top: 0px;  
 
     background: rgba(239, 183, 183, 0.71);
 }
