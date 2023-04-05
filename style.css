@@ -1,3 +1,12 @@
 body{
 background-color:#EFB7B7
 }
+header{
+position: absolute;
+width: 1440px;
+height: 168px;
+left: 0px;
+top: 0px;
+
+background: rgba(239, 183, 183, 0.24);
+}
