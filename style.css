@@ -21,23 +21,23 @@ body{
     width: 260px;
     height: 254px;
     left: 22px;
-    top: -43px;
+    top: -40px;
 
     background: url(B (1).png);
     border-radius: 250px;
 }
 .cabecalho_baggio_doces{
     position: absolute;
-width: 372px;
-height: 120px;
-left: 534px;
-top: 24px;
+    width: 372px;
+    height: 120px;
+    left: 534px;
+    top: 24px;
 
-font-family: 'Licorice';
-font-style: normal;
-font-weight: 400;
-font-size: 96px;
-line-height: 120px;
+    font-family: 'Licorice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 120px;
 
 text-align: center;
 color: #000000;
