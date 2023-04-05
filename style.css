@@ -77,18 +77,20 @@ body{
 }
 
 .cabecalho_item_menutres{
-    position: absolute;
-    width: 151px;
-    height: 56px;
-    left: 1017px;
-    top: 96px;
     
+    position: absolute;
+    width: 120px;
+    height: 56px;
+    left: 1224px;
+    top: 96px;
+
     font-family: 'Licorice';
     font-style: normal;
     font-weight: 400;
     font-size: 45px;
     line-height: 56px;
     text-align: center;
-    
+
     color: #000000;
+
 }
