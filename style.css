@@ -13,7 +13,7 @@ body{
     height: 168px;
     left: 0px;
     top: 0px;
-
+    
     background: rgba(239, 183, 183, 0.24);
 }
 .cabecalho_imagem_logo{
@@ -23,7 +23,6 @@ body{
     left: 25px;
     top: -43px;
 
-    background: url(B (1).png);
     border-radius: 250px;
 }
 .cabecalho_baggio_doces{
