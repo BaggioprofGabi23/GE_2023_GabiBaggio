@@ -149,3 +149,33 @@ background: url(bolocapa1.png)
 
     color: #000000;
 }
+
+.corpo_imagem_pro{
+    position: absolute;
+    width: 175px;
+    height: 135px;
+    left: 932px;
+    top: 293px;
+
+    background: url(bolo1.png)
+}
+
+.corpo_imagem_pro2{
+    position: absolute;
+    width: 175px;
+    height: 109px;
+    left: 932px;
+    top: 502px;
+
+    background: url(doces1.png)
+}
+
+.corpo_imagem_pro3{
+    position: absolute;
+    width: 175px;
+    height: 115px;
+    left: 932px;
+    top: 685px;
+
+    background: url(cokies.jpg);
+}
