@@ -167,19 +167,9 @@ background: url(bolocapa1.png)
     height: 50px;
     left: 1116px;
     top: 339px;
-    
-    font-family: 'Licorice';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 40px;
-    line-height: 50px;
-    /* identical to box height */
-    
+        
     text-align: center;
     
-    color: #000000;
-    
-    border: 1px solid #000000;
 }
 
 .corpo_imagem_pro2{
@@ -199,16 +189,8 @@ background: url(bolocapa1.png)
     left: 1117px;
     top: 537px;
 
-    font-family: 'Licorice';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 40px;
-    line-height: 50px;
     text-align: center;
 
-    color: #000000;
-
-    border: 1px solid #000000;
 }
 
 .corpo_imagem_pro3{
@@ -227,13 +209,7 @@ background: url(bolocapa1.png)
     height: 50px;
     left: 1116px;
     top: 724px;
-    
-    font-family: 'Licorice';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 40px;
-    line-height: 50px;
-       
+           
     text-align: center;
   
 }
