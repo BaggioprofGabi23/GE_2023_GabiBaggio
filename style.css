@@ -106,7 +106,7 @@ body{
 }
 
 .corpo_texto{
-    display: block;
+    display: flex;
     position: absolute;
     width: 578px;
     height: 151px;
