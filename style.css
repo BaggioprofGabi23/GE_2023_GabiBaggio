@@ -94,3 +94,58 @@ body{
     color: #000000;
 
 }
+
+.corpo{
+    position: absolute;
+    width: 1440px;
+    height: 713px;
+    left: 1px;
+    top: 168px;
+
+    background: rgba(239, 183, 183, 0.71);
+}
+
+.corpo_texto{
+    position: absolute;
+    width: 578px;
+    height: 151px;
+    left: 23px;
+    top: 211px;
+
+    font-family: 'Licorice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.corpo_imagem_prin{
+    position: absolute;
+width: 275px;
+height: 416px;
+left: 145px;
+top: 362px;
+
+background: url(bolocapa1.png)
+}
+
+.corpo_texto_pequeno{
+    position: absolute;
+    width: 399px;
+    height: 50px;
+    left: 949px;
+    top: 220px;
+
+    font-family: 'Licorice';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+
+    text-align: center;
+
+    color: #000000;
+}
