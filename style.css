@@ -128,7 +128,7 @@ body{
 width: 275px;
 height: 360px;
 left: 145px;
-top: 362px;
+top: 215px;
 
 background: url(bolocapa1.png)
 }
@@ -138,7 +138,7 @@ background: url(bolocapa1.png)
     width: 399px;
     height: 50px;
     left: 949px;
-    top: 220px;
+    top: 20px;
 
     font-family: 'Licorice';
     font-style: normal;
@@ -156,7 +156,7 @@ background: url(bolocapa1.png)
     width: 175px;
     height: 135px;
     left: 932px;
-    top: 293px;
+    top: 215px;
 
     background: url(bolo1.png)
 }
@@ -166,7 +166,7 @@ background: url(bolocapa1.png)
     width: 175px;
     height: 109px;
     left: 932px;
-    top: 502px;
+    top: 400px;
 
     background: url(doces1.png)
 }
@@ -176,7 +176,7 @@ background: url(bolocapa1.png)
     width: 175px;
     height: 115px;
     left: 932px;
-    top: 685px;
+    top: 555px;
 
     background: url(cokies.jpg);
 }
