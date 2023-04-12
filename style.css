@@ -161,24 +161,24 @@ background: url(bolocapa1.png)
     background: url(bolo1.png)
 }
 
-.corpo_item_pro{
+.corpo_bolo{
     position: absolute;
     width: 66px;
     height: 50px;
     left: 1116px;
     top: 339px;
-
+    
     font-family: 'Licorice';
     font-style: normal;
     font-weight: 400;
     font-size: 40px;
     line-height: 50px;
-
-
+    /* identical to box height */
+    
     text-align: center;
-
+    
     color: #000000;
-
+    
     border: 1px solid #000000;
 }
 
@@ -192,7 +192,7 @@ background: url(bolocapa1.png)
     background: url(doces1.png)
 }
 
-.corpo_item_pro2{
+.corpo_doces{
     position: absolute;
     width: 65px;
     height: 50px;
@@ -205,7 +205,9 @@ background: url(bolocapa1.png)
     font-size: 40px;
     line-height: 50px;
     text-align: center;
+
     color: #000000;
+
     border: 1px solid #000000;
 }
 
@@ -219,22 +221,19 @@ background: url(bolocapa1.png)
     background: url(cokies.jpg);
 }
 
-.corpo_item_pro3{
+.corpo_biscoito{
     position: absolute;
     width: 103px;
     height: 50px;
     left: 1116px;
     top: 724px;
-
+    
     font-family: 'Licorice';
     font-style: normal;
     font-weight: 400;
     font-size: 40px;
     line-height: 50px;
-    
+       
     text-align: center;
-
-    color: #000000;
-
-    border: 1px solid #000000;
+  
 }
